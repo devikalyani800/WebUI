@@ -1,4 +1,5 @@
 # WebUI
+Home.html
 <!doctype html>
 <html lang="en">
  <head>
@@ -47,3 +48,55 @@
 
  </body>
 </html>
+
+
+Style.css
+.server{background-color:blue;
+         height:40px;
+		 width:1530px
+		 }
+.home{color:white;
+      text-decoration:none;
+	  float:left;
+	  margin-left:20px;
+	  margin-top:7px;
+	  font-weight:bold}
+#icon{margin-right:5px}
+.details{float:right;
+         margin-left:10px;
+		 text-decoration:none;
+		 padding-right:5px;
+		 margin-top:7px;
+		 color:white;
+		 font-weight:bold}
+.navibar{
+         height:30px;
+		 width:1530px;
+		 border-style:groove;
+		 }
+
+.second{float:left;
+        margin-left:300px;
+		margin-right:10px;
+		position:inline;
+		margin-top:5px;
+        color:black;
+		text-decoration:none;
+	}
+.employee{
+            margin-top:10px;
+			margin-left:20px;
+
+          height:230px;
+          width:250px;
+		  border-style:groove
+		  }
+.label{margin-top:5px;
+        margin-left:10px}
+#boo{font-size:14px;
+     font-weight:bold
+	 }
+#icon1{color:blue;
+       margin-right:2px
+       }
+#icon2{color:red;
